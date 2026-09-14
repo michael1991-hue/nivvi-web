@@ -2,11 +2,16 @@
 
 Official site for [nivvi.app](https://nivvi.app) — support, privacy, compatibility and family-sharing pages for App Store Connect.
 
+## Live
+
+- Site: https://nivvi-web.vercel.app
+- Domain: https://nivvi.app (assign in Vercel → nivvi-web → Settings → Domains)
+
 ## Vercel
 
-1. Import this repo at https://vercel.com/new
-2. Framework preset: **Other** (static files, no build)
-3. Add domain `nivvi.app` and `www.nivvi.app`
+1. Open https://vercel.com/michael1991-1032/nivvi-web/settings/domains
+2. Sign in as **michael1991@live.co.uk** (or GitHub)
+3. Add `nivvi.app` and `www.nivvi.app`
 
 App Store URLs:
 
