@@ -9,6 +9,7 @@
     nav.setAttribute("aria-label", "Mobile");
     nav.innerHTML = `
       <div class="flex flex-col">
+        <a href="/#access" class="flex min-h-11 items-center text-base font-medium text-ink">Access</a>
         <a href="/" class="flex min-h-11 items-center text-base font-medium text-ink">Home</a>
         <a href="/compatibility" class="flex min-h-11 items-center text-base font-medium text-ink">Compatibility</a>
         <a href="/support" class="flex min-h-11 items-center text-base font-medium text-ink">Support</a>
